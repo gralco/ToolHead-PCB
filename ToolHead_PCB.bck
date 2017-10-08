@@ -1,0 +1,40 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 25AA02UID
+D 2Kbit SPI EEPROM
+K SPI EEPROM Flash
+$ENDCMP
+#
+$CMP AD8497
+D Precision Thermocouple Amplifier with Cold Junction Compensation
+K Thermocouple, Amplifier
+$ENDCMP
+#
+$CMP EMI_FILTER_4pin
+D EMI Filter, four pins
+K electromagnetic interference noise
+$ENDCMP
+#
+$CMP MAX31855
+D 14-Bit, 0.25°C Resolution, SPI Thermocouple to Digital Converter, 3.3V Supply Voltage, 900µA Supply Current
+K SPI, Thermocouple
+$ENDCMP
+#
+$CMP MAX31855KASA-TRI
+D Cold Junction K-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MCP3911
+D 24bit 125ksps 2 Channel Analog Front End
+K ADC
+$ENDCMP
+#
+$CMP QUAD_INDEX_ROTARY_ENCODER
+D Rotary encoder, dual channel, incremental quadrate outputs
+K rotary switch encoder
+F ~
+$ENDCMP
+#
+#End Doc Library
